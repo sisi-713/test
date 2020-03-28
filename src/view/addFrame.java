@@ -40,18 +40,10 @@ public class addFrame extends JInternalFrame {
     private JDBC jdbc=new JDBC();
     private RecordDao recorddao=new RecordDao();
 
-    /**
-     * Launch the application.
-     */
-
-    /**
-     * Create the frame.
-     */
     public addFrame() {
         setFrameIcon(new ImageIcon(addFrame.class.getResource("/images/edit.png")));
         setClosable(true);
         setIconifiable(true);
-//        setTitle("填报信息");
         setBounds(100, 100, 770, 685);
         
         JLabel L2 = new JLabel("姓名");

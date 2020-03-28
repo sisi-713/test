@@ -22,7 +22,6 @@ public class Record {
         this.suspected = suspected;
     }
 
-	
     public String getRemark() {
         return remark;
     }

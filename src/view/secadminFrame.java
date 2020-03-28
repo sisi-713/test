@@ -1,7 +1,5 @@
 package view;
 
-
-
 import javax.swing.JInternalFrame;
 import javax.swing.ImageIcon;
 import java.awt.GridLayout;

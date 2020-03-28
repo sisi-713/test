@@ -32,7 +32,6 @@ public class read extends JInternalFrame {
     private JTextField datetext;
     private JDBC jdbc=new JDBC();
     private JComboBox comboBox;
-
     /**
      * Launch the application.
      */

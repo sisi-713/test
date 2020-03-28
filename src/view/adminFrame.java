@@ -27,8 +27,7 @@ public class adminFrame extends JInternalFrame {
         setFrameIcon(new ImageIcon(adminFrame.class.getResource("/images/secadmin.gif")));
         setResizable(true);
         setTitle("学院管理界面");
-        setBounds(100, 100, 585, 451);
-        
+        setBounds(100, 100, 585, 451);   
         JMenuBar menuBar = new JMenuBar();
         setJMenuBar(menuBar);
         getContentPane().setLayout(new BorderLayout(0, 0));

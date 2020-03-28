@@ -23,8 +23,7 @@ public class touchus extends JInternalFrame {
         getContentPane().setBackground(Color.BLUE);
         setIconifiable(true);
         setTitle("关于我们");
-        setBounds(100, 100, 707, 437);
-        
+        setBounds(100, 100, 707, 437); 
         JLabel lblNewLabel = new JLabel("");
         lblNewLabel.setIcon(new ImageIcon(touchus.class.getResource("/images/shida.jpg")));
         GroupLayout groupLayout = new GroupLayout(getContentPane());

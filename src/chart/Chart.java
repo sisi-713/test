@@ -53,8 +53,6 @@ public class Chart {
 
        frame1=new ChartPanel(chart,true);        
   }
-  
-     
      private static CategoryDataset getDataSet() {
          
          DefaultCategoryDataset dataset = new DefaultCategoryDataset();

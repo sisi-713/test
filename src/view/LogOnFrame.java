@@ -48,8 +48,7 @@ public class LogOnFrame extends JFrame {
     JDBC jdbc = new JDBC();
     static String id = null; 
     static String password = null; 
-    
-
+   
     public LogOnFrame() {
         setIconImage(Toolkit.getDefaultToolkit().getImage(LogOnFrame.class.getResource("/images/about.png")));
         setResizable(false);

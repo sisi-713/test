@@ -55,8 +55,6 @@ public class seachFram extends JInternalFrame {
     private JTextField text10;
     private JTextField text11;
     private JTextArea text12;
-
-
     /**
      * Launch the application.
      */

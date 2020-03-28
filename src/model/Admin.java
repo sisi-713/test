@@ -61,6 +61,4 @@ public class Admin {
         this.depart = depart;
         this.phone = phone;
     }
-	
-
 }

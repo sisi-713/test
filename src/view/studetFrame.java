@@ -31,8 +31,7 @@ public class studetFrame extends JFrame {
     /**
      * Launch the application.
      */
-  
-
+ 
     /**
      * Create the frame.
      */

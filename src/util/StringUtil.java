@@ -17,7 +17,6 @@ public class StringUtil {
 			return false;
 		}
 	}
-
 	/**
 	 * 判断不为空
 	 * @param str
